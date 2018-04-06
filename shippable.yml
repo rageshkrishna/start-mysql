@@ -1,0 +1,6 @@
+language: none
+services:
+  - mysql
+build:
+  ci:
+    - echo "Hello, World!"
